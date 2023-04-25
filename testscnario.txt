@@ -1,0 +1,36 @@
+
+ TEST SCENARIO for CREDIT Cards:
+
+1. Test Scenario: Verify the credit card application process
+   Test Steps:
+   1. Go to the credit card application page.
+   2. Fill out the required information on the application form.
+   3. Submit the application.
+   4. Verify that a confirmation message is displayed.
+   5. Verify that the application is processed successfully by checking the status of the application.
+
+2. Test Scenario: Verify the credit card balance transfer feature
+   Test Steps:
+   1. Go to the credit card balance transfer page.
+   2. Enter the required information for the balance transfer, such as the account number and transfer amount.
+   3. Submit the balance transfer request.
+   4. Verify that the balance transfer is successful by checking the balance on the destination account.
+   5. Verify that the balance on the source account is reduced by the transferred amount.
+
+3. Test Scenario: Verify the credit card payment feature
+   Test Steps:
+   1. Go to the credit card payment page.
+   2. Enter the required information for the payment, such as the amount and payment method.
+   3. Submit the payment
+   4. Verify that the payment is processed successfully by checking the payment confirmation message.
+   5. Verify that the balance on the credit card is reduced by the paid amount.
+
+4. Test Scenario: Verify the credit card security feature
+   Test Steps:
+   1. Go to the credit card security page.
+   2. Enable the credit card security feature, such as the two-factor authentication or fraud alert.
+   3. Perform a transaction on the credit card.
+   4. Verify that the security feature is working by checking that the user is prompted to enter 
+        the authentication code or the transaction is flagged as fraudulent.
+   5. Disable the credit card security feature and verify that the transaction can be performed 
+	without the additional security steps.
